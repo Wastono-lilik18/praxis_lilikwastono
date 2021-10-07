@@ -1,1 +1,2 @@
-print ("my name is lilik wastono")
+nama = "LILIK WASTONO"
+print(nama)
